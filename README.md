@@ -1,5 +1,5 @@
 // CSCI 27X - GitHub Upload Practice
-// Name: Ziarahman 
+// Name: Ziarahman Fayez
 // Created Date : 01/14/25
 #include <iostream>
 using namespace std;
